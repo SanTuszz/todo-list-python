@@ -1,22 +1,21 @@
-# 📋 To-Do List em Python
+# 📋 Gerenciador de Tarefas em Python (CLI)
 
-Aplicação de lista de tarefas desenvolvida em Python com persistência de dados em JSON.  
-O programa funciona no terminal, permite adicionar, listar e marcar tarefas como concluídas.
-
----
+Projeto pessoal desenvolvido em Python para gerenciamento de tarefas diretamente pelo terminal.  
+Permite adicionar, listar e concluir tarefas, com persistência de dados em arquivo JSON.
 
 ## 🚀 Funcionalidades
 
-✔ Adicionar tarefas  
-✔ Listar tarefas cadastradas  
-✔ Marcar tarefas como concluídas  
-✔ Persistência de dados em arquivo JSON  
-✔ Simples, leve e funcional
+- Adicionar novas tarefas
+- Listar tarefas cadastradas
+- Marcar tarefas como concluídas
+- Salvamento automático em arquivo `.json`
+- Interface simples via terminal (CLI)
 
----
+## 🛠️ Tecnologias utilizadas
 
-## 💻 Como Executar
+- Python 3
+- JSON (armazenamento de dados)
+- Terminal / CLI
 
-### 1. Clone o repositório
-```bash
-git clone https://github.com/SanTuszz/todo-list-python.git
+## 📂 Estrutura do projeto
+
